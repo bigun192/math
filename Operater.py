@@ -1,0 +1,9 @@
+a,b,c = 3,7,2
+#연산자를 이용하여 계산하기
+print(a+b) # 더하기
+print(a-b) # 빼기
+print(a*b) # 곱하기
+print(a/b) # 나누기
+print(a%b) # 나머지
+print(a**b) # 제곱
+print(a//b) # 몫
